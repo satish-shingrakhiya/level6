@@ -1,1 +1,1 @@
-function foo = alert()
+alert()
